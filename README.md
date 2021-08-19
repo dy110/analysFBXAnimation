@@ -1,0 +1,2 @@
+# analysFBXAnimation
+OpenGL渲染fbx中的骨骼动画
